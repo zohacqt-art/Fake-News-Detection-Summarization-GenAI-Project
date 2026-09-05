@@ -48,7 +48,7 @@ This project aims to help users **save time**, **stay informed**, and **verify t
 
 ```bash
 # Clone the repository
-git clone https://github.com/aliahmad552/fake_news_detection_and_summarization.git
+git clone https://github.com/zohacqt-art/Fake-News-Detection-Summarization-GenAI-Project
 cd fake_news_detection_and_summarization
 
 # Create and activate virtual environment
@@ -91,6 +91,6 @@ This project uses AI for good — helping people consume news intelligently, qui
 --
 ## 👨‍💻 Author
 
-Ali Ahmad
+Zoha Zaydy
 
-Data Scientist | AI Engineer | Generative AI Enthusiast
+Physicist | Generative AI Enthusiast
